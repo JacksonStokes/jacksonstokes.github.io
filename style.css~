@@ -2,3 +2,8 @@
   font-family: Audiowide;
   text-align: center;
 }
+
+.columns.nopadding {
+  padding-left: 0;
+  padding-right: 0;
+}
