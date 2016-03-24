@@ -20,17 +20,21 @@
 </div>
 
 <div class="row fullWidth">
-<div class="large-2 columns">Adipisicing voluptatem inventore commodi incidunt voluptatum voluptas soluta. Elit obcaecati animi quasi labore impedit repellat? Ut vitae aliquid quo est rerum modi voluptate minus iusto sunt provident, similique quaerat quasi!
+<div class="large-2 columns">Welcome to my site!!! Adipisicing voluptatem inventore commodi incidunt voluptatum voluptas soluta. Elit obcaecati animi quasi labore impedit repellat? Ut vitae aliquid quo est rerum modi voluptate minus iusto sunt provident, similique quaerat quasi!
 Adipisicing adipisci at quasi debitis dicta. Sit autem reprehenderit expedita dicta pariatur numquam accusamus eos possimus aut. Excepturi repellat natus beatae error neque rerum sed provident. Non nisi laboriosam hic.
 Lorem facere esse eum in voluptas. Minima aliquam eos harum porro repellat labore recusandae, non doloribus hic? Obcaecati corrupti reiciendis dolore officiis doloremque? Quibusdam id totam sed obcaecati nostrum. Eaque!
 </div>
-<div class="large-88888888 columns">     <iframe src="https://kiwiirc.com/client/chat.freenode.net:6697/?nick=citizen?&theme=cli##jhs" style="border:0; width:100%; height:35rem;"></iframe>
+<div class="large-8 columns">     <iframe src="https://kiwiirc.com/client/chat.freenode.net:6697/?nick=citizen?&theme=cli##jhs" style="border:0; width:100%; height:35rem;"></iframe>
 </div>
 <div class="large-2 columns">Ipsum labore pariatur consequatur voluptatem praesentium id amet dolor voluptatum ipsum! At saepe eligendi voluptatum quis aliquid enim vero. Odit pariatur dignissimos omnis alias doloremque iste amet maxime? Nobis perferendis!
 Lorem error aspernatur ad reprehenderit tempore. Aliquid eligendi ullam unde animi quae facere? Accusantium praesentium soluta ex dolore commodi atque unde atque at. Aliquid voluptatibus aliquid pariatur tempore neque maiores?
 Lorem impedit fugiat quidem necessitatibus provident. Laboriosam consequatur iusto quos soluta aliquam architecto et doloremque tempora odio molestias vitae. Vitae pariatur similique ea in fuga! Assumenda asperiores esse magnam neque.
 </div>  
-
+<div class="row">
+  <div class="column row text-center"><img src="chester_eating.jpg"  alt="hamster eats">
+</div>
+</div>
+</div>
 </div>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
   <script src="https://cdn.jsdelivr.net/foundation/6.2.0/foundation.min.js"></script>
